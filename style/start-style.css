@@ -1,0 +1,10 @@
+************ Welcome to start styling ****************
+
+
+.main1 {
+    display: flex;
+    display: inline-flex;
+    color: blue;
+    text-align: center;
+    font-size: large;
+}
