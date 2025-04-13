@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="main1">
-        <h1>Hello World</h1>
+        <h1 class="main2">Hello World</h1>
     </div>
     
     <?php 
