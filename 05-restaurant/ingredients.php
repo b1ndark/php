@@ -2,22 +2,12 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="./styles/simple.css" />
-  <link rel="stylesheet" href="./styles/custom.css" />
+  <?php include 'include/Meta/meta.php' ?>
   <title>Culinary Cove &bull; Our mission</title>
 </head>
 
 <body>
-  <header class="header-with-background" style="background-image: url('images/pexels-engin-akyurt-1435904.jpg'); ">
-    <h1>Culinary Cove</h1>
-    <p>Your sanctuary for exceptional flavors</p>
-    <nav>
-      <a href="our-mission.html">Our mission</a>
-      <a href="ingredients.html">Ingredients</a>
-    </nav>
-  </header>
+  <?php include 'include/header.php'; ?>
 
   <main>
     <h1>Our ingredients</h1>
@@ -49,10 +39,7 @@
     </p>
   </main>
 
-  <footer>
-    <p>Culinary Cove's website.</p>
-    <p>For educational purposesS</p>
-  </footer>
+  <?php include 'include/footer.php'; ?>
 </body>
 
 </html>
