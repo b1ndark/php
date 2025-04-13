@@ -1,9 +1,14 @@
+<?php
+$pageTitle = 'Ingredients';
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
   <?php include 'include/Meta/meta.php' ?>
-  <title>Culinary Cove &bull; Our mission</title>
+
+  <title>Culinary Cove &bull; <?php echo $pageTitle; ?></title>
 </head>
 
 <body>
