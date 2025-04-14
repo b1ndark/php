@@ -16,7 +16,7 @@ $headerImg = 'images/pexels-engin-akyurt-1435904.jpg';
 
   <?php include 'include/header.php'; ?>
   <main>
-    <h1>Our mission</h1>
+    <h1><i class="fa-solid fa-list-check"></i> Our mission</h1>
     <p>
       At Culinary Cove, our core mission is to offer a sanctuary for
       those who seek exceptional flavors and culinary experiences.

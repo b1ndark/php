@@ -17,7 +17,7 @@ $headerImg = 'images/pexels-fwstudio-172289.jpg';
 
     <main>
 
-        <h1>Our menu</h1>
+        <h1><i class="fa-solid fa-book"></i> Our menu</h1>
 
         <h2>Starters</h2>
         <ul>
