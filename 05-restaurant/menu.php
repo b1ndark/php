@@ -1,5 +1,6 @@
 <?php
 $pageTitle = 'Menu';
+$pageKey = 'menu';
 $headerImg = 'images/pexels-fwstudio-172289.jpg';
 ?>
 
@@ -8,8 +9,6 @@ $headerImg = 'images/pexels-fwstudio-172289.jpg';
 
 <head>
     <?php include 'include/Meta/meta.php' ?>
-
-    <title>Culinary Cove &bull; <?php echo $pageTitle; ?></title>
 </head>
 
 <body>

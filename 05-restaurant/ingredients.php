@@ -1,6 +1,7 @@
 <?php
-$pageTitle = 'Ingredients';
-$headerImg = 'images/pexels-julia-volk-5273044.jpg';
+// $pageTitle = 'Ingredients';
+$pageKey = 'ingredients';
+// $headerImg = 'images/pexels-julia-volk-5273044.jpg';
 ?>
 
 <!DOCTYPE html>
@@ -8,8 +9,6 @@ $headerImg = 'images/pexels-julia-volk-5273044.jpg';
 
 <head>
   <?php include 'include/Meta/meta.php' ?>
-
-  <title>Culinary Cove &bull; <?php echo $pageTitle; ?></title>
 </head>
 
 <body>

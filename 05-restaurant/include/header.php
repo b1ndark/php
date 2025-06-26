@@ -1,5 +1,11 @@
                             <!-- Header -->
 
+<?php
+    if (empty($headerImg)){
+        $headerImg = 'images/pexels-engin-akyurt-1435904.jpg';
+    }
+?>
+
 <header class="header-with-background" style="background-image: url('<?php echo $headerImg; ?>'); ">
     <h1>Culinary Cove</h1>
     <p>Your sanctuary for exceptional flavors</p>

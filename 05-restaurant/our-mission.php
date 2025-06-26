@@ -1,5 +1,6 @@
 <?php
 $pageTitle = 'Our mission';
+$pageKey = 'our-mission';
 $headerImg = 'images/pexels-engin-akyurt-1435904.jpg';
 ?>
 
@@ -8,8 +9,6 @@ $headerImg = 'images/pexels-engin-akyurt-1435904.jpg';
 
 <head>
   <?php include 'include/Meta/meta.php' ?>
-
-  <title>Culinary Cove &bull; <?php echo $pageTitle; ?></title>
 </head>
 
 <body>
